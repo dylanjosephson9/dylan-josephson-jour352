@@ -1,0 +1,111 @@
+/*Styles for my resume*/
+
+body {
+	font-family: 'Open Sans', Avenir, sans-serif;
+	font-size: 1em;
+	color: #444;
+	font-weight: 400;
+}
+
+#container {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+	padding-bottom: 50px;
+}
+
+
+.display-4 {
+	color: #2258c3;
+}
+
+/*Banner name at top*/
+#name {
+	font-size: 3em;
+	color:  #2258c3;
+	text-transform:  uppercase;
+	text-align:  center;
+	border-bottom: 1px solid #33485e;
+	width: 60%;
+	min-width: 300px;
+	margin: 0 auto;
+}
+
+/*list items*/
+ul li {
+	font-size: 1em;
+}
+.menu {
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+.menu li {
+	display: inline-block;
+}
+
+/*My title*/
+#title{
+	text-transform: uppercase;
+	font-size: 1.5em;
+	color: #33485e;
+	font-weight: 600;
+	text-align: center;
+	margin-top: 20px;
+}
+
+/*Section titles*/
+.sectionheader {
+	text-transform: uppercase;
+	font-size:  1.5em;
+	background-color:  #2258c3;
+	color: white;
+	font-weight: 500;
+	margin: 20px 0px 10px;
+	width: 70%;
+	min-width: 300px;
+}
+
+
+
+/*Job titles*/
+.jobtitle {
+	font-size: 1.5em;
+	font-weight: 600;
+}
+
+/*Job organizations*/
+.organization {
+	font-size: 1.25em;
+	font-weight: 400;
+}
+
+/*School name*/
+.schoolname {
+	font-size: 1.25em;
+	font-weight: 400;
+}
+
+/*Job dates*/
+.date {
+	font-size:  1em;
+	font-style: italic;
+	font-weight: 400;
+	margin-top: 2px;
+}
+
+#degrees {
+	margin-top: 5px;
+}
+
+#do {
+	margin-top: 5px;
+}
+
+#top {
+	width: 60%;
+	min-width: 300px;
+	margin: 0 auto;
+	margin-bottom: 30px;
+}
