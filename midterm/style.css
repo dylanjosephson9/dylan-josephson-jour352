@@ -1,0 +1,69 @@
+/*Styles for my midterm*/
+
+body {
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	font-size: 1em;
+	color: black;
+	font-weight: 400;
+}
+
+/*Banner attributes*/
+#banner {
+	background: #FF4433;
+}
+
+#banner_content {
+	padding: 16px;
+	max-width: 1000px;
+	margin: 16px auto;
+	display: flex;
+	align-items: center;
+}
+
+#banner_text {
+	flex-grow: 1;
+	line-height: 1.4;
+	font-family: 'Open Serif', Didot, serif;
+	font-size: 64px;
+	font-weight: 400;
+	color: white;
+}
+
+#pagecontent {
+	max-width: 75%;
+	margin: 16px auto;
+}
+
+/*Headline formatting*/
+#headline {
+	font-family: 'Open Serif', Times New Roman, serif;
+	font-size: 3em;
+	color:  black;
+	min-width: 300px;
+}
+
+#byline {
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	font-size: 14px;
+	color: black;
+}
+
+.bodytext {
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	font-size: 12px;
+	color: black;
+}
+
+#pull_quote {
+	font-family: 'Open Serif', Didot, serif;
+	font-size: 20px;
+	color: #FF4433;
+	font-weight: bold;
+}
+
+#related_items {
+	font-family: 'Open Serif', Times New Roman, serif;
+	font-size: 16px;
+	color: black;
+}
+
